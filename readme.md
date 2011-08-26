@@ -8,22 +8,24 @@ After the popularity of my CSS3 Bundle, Many have requested that I share the uni
 
 ## Supported Editors
 
-*TextMate
+* TextMate
+* Vim
 
 ## Installation
 
 To install via Git:
 
-		mkdir -p ~/Library/Application\ Support/TextMate/Bundles
-		cd ~/Library/Application\ Support/TextMate/Bundles
-		git clone git@github.com:mattsanders/CSS3-TextMate-Bundle.git "CSS3.tmbundle"
-		osascript -e 'tell app "TextMate" to reload bundles'
+		mkdir -p "~/Library/Application Support/TextMate/Themes"
+		cd "~/Library/Application Support/TextMate/Themes"
+		git clone git@github.com:mattsanders/Prospettiva-Theme.git
+		open .
 
-Source can be viewed or forked via GitHub: [http://github.com/mattsanders/CSS3-TextMate-Bundle/tree/master](http://github.com/mattsanders/CSS3-TextMate-Bundle/tree/master)
+
+Source can be viewed or forked via GitHub: [http://github.com/mattsanders/Prospettiva-Theme/tree/master](http://github.com/mattsanders/Prospettiva-Theme/tree/master)
 
 To install without Git:
 
-	Click the download button > Figure it out yourself > double click the theme icon. 
+	Click the "Downloads" button > choose an option 
 
 
 ## Author
