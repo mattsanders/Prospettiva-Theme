@@ -2,7 +2,7 @@
 
 By Matthew Sanders—matt@optionshft.com
 
-<img src="http://matthewnsara.com/images/css3-textmate-bundle-preview.png" alt="CSS3 TextMate Bundle - Preview" />
+<img src="http://matthewnsara.com/images/prospettiva-theme-preview.png" alt="Prospettiva Theme - Preview" />
 
 After the popularity of my CSS3 Bundle, Many have requested that I share the unique TextMate theme shown in the examples. Enjoy!
 
