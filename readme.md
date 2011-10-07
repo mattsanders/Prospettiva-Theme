@@ -9,7 +9,6 @@ After the popularity of my CSS3 Bundle, Many have requested that I share the uni
 ## Supported Editors
 
 * TextMate
-* Vim
 
 ## Installation
 
